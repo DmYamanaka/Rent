@@ -1,0 +1,143 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: #282c34;
+  color: ghostwhite;
+  font-size: 20px;
+}
+
+.get_arends{
+  margin: 20px;
+  width: 170px;
+  border-radius: 5px;
+  background-color: cornflowerblue;
+}
+
+.get_estates {
+  margin: 20px;
+  width: 200px;
+  border-radius: 5px;
+  background-color: cornflowerblue;
+}
+
+button {
+  transition: background-color;
+  transition: color;
+  transition-duration: 500ms;
+  font-size: 20px;
+  color: cornsilk;
+  background-color: darkorchid;
+  border-radius: 5px;
+}
+
+button:hover {
+  transition: background-color;
+  transition-duration: 500ms;
+  color: darkblue;
+  background-color: ghostwhite;
+}
+
+.createEstate {
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: gold;
+}
+
+input {
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.seeEsate{
+  padding: 10px;
+  margin: 20px;
+  width: 500px;
+  border-radius: 5px;
+  background-color: green;
+}
+
+.create_arend{
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: grey;
+}
+
+.takeArend{
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: red;
+}
+
+.infoArend{
+  padding: 10px;
+  margin: 20px;
+  width: 500px;
+  border-radius: 5px;
+  background-color: mediumorchid;
+}
+
+.arendAcceptOwner input{
+  width: 100px;
+}
+
+.arendAcceptOwner{
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: darksalmon;
+}
+
+.deleteTake{
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: saddlebrown;
+}
+
+.cancelArend{
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: saddlebrown;
+}
+
+.deleteAdmin{
+  padding: 10px;
+  margin: 20px;
+  width: 600px;
+  border-radius: 5px;
+  background-color: navy;
+}
+
+.deleteAdmin input{
+  width: 500px;
+}
+
+.cmenaRole{
+  padding: 10px;
+  margin: 20px;
+  width: 600px;
+  border-radius: 5px;
+  background-color: lightsalmon;
+}
+
+fieldset{
+  width: 400px;
+  margin: 20px;
+}
+
+legend{
+  font-size: 30px;
+}
